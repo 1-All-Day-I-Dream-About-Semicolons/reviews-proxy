@@ -58,7 +58,7 @@ module.exports = {
   },
   service4: {
     api: '/reviews/:id',
-    url: 'http://localhost:8000',
+    url: 'http://13.57.35.129:8000/',
     bundle: 'bundle.js',
   },
 };
