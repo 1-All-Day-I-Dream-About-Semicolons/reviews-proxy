@@ -43,7 +43,7 @@
 module.exports = {
   service1: {
     api: '/products/:id',
-    url: 'http://localhost:3001',
+    url: 'http://18.144.83.48:3001/photos/1',
     bundle: 'bundle.js',
   },
   service2: {
@@ -53,7 +53,7 @@ module.exports = {
   },
   service3: {
     api: '/ctl/:id',
-    url: 'http://localhost:3003',
+    url: 'http://3.101.147.158:3003/',
     bundle: 'bundle.js',
   },
   service4: {
