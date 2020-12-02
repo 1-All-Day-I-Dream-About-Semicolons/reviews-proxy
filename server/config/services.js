@@ -43,7 +43,7 @@
 module.exports = {
   service1: {
     api: ':id/photos',
-    url: 'http://18.144.83.48:3001/photos/1',
+    url: 'http://18.144.83.48:3001/products/1',
     bundle: 'bundle.js',
   },
   service2: {
